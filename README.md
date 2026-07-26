@@ -1,6 +1,6 @@
 # Predicción de Abandono de Clientes (Churn)
 
-**UNIVERSIDAD:** UNIVERSDIAD NACIONAL DE INGENIERÍA - PERÚ 2026
+**UNIVERSIDAD:** UNIVERSIDAD NACIONAL DE INGENIERÍA - PERÚ 2026
 
 
 **Docente:** Dr. Jorge Luis Guevara  
