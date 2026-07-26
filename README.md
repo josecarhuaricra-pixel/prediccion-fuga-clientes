@@ -1,6 +1,17 @@
 # Predicción de Abandono de Clientes (Churn)
 
-**Autor:** Jose J. Carhuaricra Cusipuma - Curso Redes Neuronales y Deep Learning - UNI
+**UNIVERSIDAD:** UNIVERSDIAD NACIONAL DE INGENIERÍA - PERÚ 2026
+
+
+**Docente:** Dr. Jorge Luis Guevara  
+
+
+**Curso:** Redes Neuronales y Deep Learning   
+
+
+**Autor:** Jose J. Carhuaricra Cusipuma
+
+
 
 Este repositorio contiene el código experimental desarrollado en **Google Colab** para la evaluación y comparativa de modelos predictivos de abandono de clientes (*Churn*), evaluando algoritmos basados en *Gradient Boosting* (**CatBoost**, **XGBoost**), ensambles tradicionales (**Random Forest**) y modelos fundacionales de aprendizaje en contexto (**TabPFN**).
 
